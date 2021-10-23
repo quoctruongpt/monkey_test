@@ -1,0 +1,57 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.form-user, .list-user {
+    width: 400px;
+    border: 1px solid #ccc;
+    margin: 25px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+    margin-left: 150px;
+    background-color: honeydew;
+}
+
+h2 {
+    padding: 0px;
+    margin-top: 0px;
+    background-color: silver;
+    text-align: center;
+}
+
+.form-user label {
+    width: 100px;
+    float: left;
+    margin-left: 30px;
+}
+
+.btn-luu {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 200px;
+    margin-left: 130px;
+    padding: 5px;
+    background-color: rgb(28, 163, 28);
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.list-user {
+    width: 620px;
+}
+
+.error {
+    color: red;
+}
+
+h1 {
+    display: block;
+    padding: 15px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: salmon;
+}
+
